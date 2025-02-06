@@ -27,6 +27,8 @@ This tool is not compatible with Windows.
 2. Connect your Android device to the computer via USB.
 3. Open a terminal and run `adb devices` to verify the connection.
 
+<img width="345" alt="Screenshot 2025-02-07 at 01 06 34" src="https://github.com/user-attachments/assets/3f1460cb-93cd-4a40-8e2d-fe24b3fb085d" />
+
 ### Push a Save Folder
 
 1. Open a terminal and navigate to the root folder of this repository.
@@ -35,6 +37,8 @@ This tool is not compatible with Windows.
    ./load.sh /path/to/your/save/folder
    ```
 3. Open Stardew Valley on your Android device, and the save will appear in the game.
+
+<img width="654" alt="Screenshot 2025-02-07 at 01 09 30" src="https://github.com/user-attachments/assets/2e14bdb3-4a50-4029-b6c2-94fa3cfdfc0a" />
 
 ### Backup Saves from the Android Device
 
@@ -45,6 +49,8 @@ This tool is not compatible with Windows.
    ```
 3. All saves will be compressed into a ZIP file inside the `archive` folder.
 4. The latest save files will be available under the `Saves` folder. **(These files are overwritten on each fetch.)**
+
+<img width="937" alt="Screenshot 2025-02-07 at 01 12 20" src="https://github.com/user-attachments/assets/4f1456ba-a36b-40f5-a073-76d762c0c189" />
 
 ## How to Install `adb` on a Computer
 
