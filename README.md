@@ -2,6 +2,8 @@
 
 A collection of Bash scripts to manage (load and backup) Stardew Valley save files on an Android device.
 
+This tool is not compatible with Windows.
+
 ## Features
 
 - `load.sh`: Pushes a save folder to the Android device.
